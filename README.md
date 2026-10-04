@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Xuqing Zhao 👋
+
+Software Engineer with experience in web development and AI-powered applications.
+
+Currently working with LLM applications, knowledge bases, RAG, and conversational AI systems.
+
+## About Me
+
+- MSc in Computer Science, University College Dublin
+- 4+ years of software engineering experience
+- Experience with React, TypeScript, Java, Spring Boot, Python, MySQL, and Redis
+- Currently working on AI-powered service robot applications
+- Interested in LLM systems, RAG, Agentic AI, AI Engineering, and Trustworthy AI
+
+## Tech Stack
+
+**Frontend**
+
+React · TypeScript · JavaScript · Vue · Vite
+
+**Backend & Data**
+
+Java · Spring Boot · Python · MySQL · Redis
+
+**AI**
+
+LLM Applications · RAG · Knowledge Base · LangChain4j · AI Agents
+
+## Current Interests
+
+LLM Systems · RAG · Agentic AI · GraphRAG · Trustworthy AI · Applied AI
