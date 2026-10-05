@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **HeatherIris/HeatherIris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Xuqing Zhao 👋
+# Hi, I'm Xuqing Zhao
 
 Software Engineer with experience in web development and AI-powered applications.
 
